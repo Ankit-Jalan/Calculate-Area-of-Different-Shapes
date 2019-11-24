@@ -1,0 +1,6 @@
+C:\Users\Ankit Jalan\source\repos\ShapingProgram\ShapingProgram\bin\Debug\ShapingProgram.exe
+C:\Users\Ankit Jalan\source\repos\ShapingProgram\ShapingProgram\bin\Debug\ShapingProgram.pdb
+C:\Users\Ankit Jalan\source\repos\ShapingProgram\ShapingProgram\obj\Debug\ShapingProgram.csprojAssemblyReference.cache
+C:\Users\Ankit Jalan\source\repos\ShapingProgram\ShapingProgram\obj\Debug\ShapingProgram.csproj.CoreCompileInputs.cache
+C:\Users\Ankit Jalan\source\repos\ShapingProgram\ShapingProgram\obj\Debug\ShapingProgram.exe
+C:\Users\Ankit Jalan\source\repos\ShapingProgram\ShapingProgram\obj\Debug\ShapingProgram.pdb
